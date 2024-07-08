@@ -3,7 +3,7 @@
 A real-time chat application. Another fun side project :)
 
 
-## Technologies Used
+## Technologies Used ##
 
 - HTML, CSS, and Javascript for Frontend
 - Node/Express for creating API endpoints
